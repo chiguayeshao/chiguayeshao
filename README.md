@@ -2,7 +2,7 @@
 
 ### Hello, I'm Xiaotian Ye 👋
 
-- Junior front-end developer
+- Software Engineer
 
 - I’m currently focusing on React
 
