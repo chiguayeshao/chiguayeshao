@@ -2,9 +2,7 @@
 
 ### Hello, I'm Xiaotian Ye 👋
 
-- Software Engineer
-
-- I’m currently focusing on React
+- I’m currently focusing on Web3.0.
 
 <!--
 **chiguayeshao/chiguayeshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
