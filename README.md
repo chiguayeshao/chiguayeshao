@@ -1,8 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chiguayeshao" />
 
-### Hello, I'm Xiaotian Ye 👋
+# Hello, I'm Xiaotian Ye 👋
 
-- I’m currently focusing on Web3.0.
+- Full Stack Engineer
+- Founding Member of GasLockR
+- Currently All in Web3
 
 <!--
 **chiguayeshao/chiguayeshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
