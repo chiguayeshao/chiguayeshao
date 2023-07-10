@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chiguayeshao" />
 
-# Hello, I'm Xiaotian Ye 👋
+# Hello, I'm Ethan Ye 👋
 
 - Full Stack Engineer
 - Founding Member of GasLockR
