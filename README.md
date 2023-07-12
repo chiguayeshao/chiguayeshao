@@ -3,7 +3,7 @@
 # Hello, I'm Ethan Ye 👋
 
 - Full Stack Engineer
-- Founding Member of GasLockR
+- Co-founder of GasLockR
 - Currently All in Web3
 
 <!--
